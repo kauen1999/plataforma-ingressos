@@ -1,14 +1,14 @@
-# 🎟️ EntradaMaster — Plataforma de Eventos e Venda de Ingressos
+# EntradaMaster — Plataforma de Eventos e Venda de Ingressos
 
 Plataforma completa para criação de eventos, venda de ingressos online e emissão de tickets digitais com QR Code.
 
-**🔗 Demo (MVP em produção):** https://development-sigma-beige.vercel.app
+**Demo (MVP em produção):** (https://www.entradamaster.com/)
 
 > Projeto desenvolvido em equipe como freelancer (fev/2025 – set/2025). Atuei principalmente no **backend**: API, banco de dados, autenticação, integração de pagamentos e geração de ingressos.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Cadastro e login de usuários (e-mail/senha e OAuth)
 - Criação e gerenciamento de eventos
@@ -86,7 +86,7 @@ REDIS_URL=             # conexão Redis
 # + credenciais do gateway de pagamento e do servidor de e-mail (SMTP)
 ```
 
-## 📬 Contato
+##Contato
 
 **Jocean Ferreira** — Desenvolvedor Backend
 [LinkedIn](https://www.linkedin.com/in/jocean-ferreira-544613150/) · jocean.dev@gmail.com
